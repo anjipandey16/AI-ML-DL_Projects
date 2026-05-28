@@ -1,0 +1,13 @@
+# Data Manipulation and Vectorization
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Deep Learning Frameworks
+tensorflow>=2.14.0
+keras>=2.14.0
+
+# Machine Learning Utilities
+scikit-learn>=1.2.0
+
+# Jupyter Notebook Execution Environment
+ipykernel
