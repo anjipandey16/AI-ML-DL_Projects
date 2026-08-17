@@ -1,0 +1,11 @@
+numpy: Provides support for multidimensional arrays and optimized numerical operations used in array manipulation during data preprocessing.
+
+pandas: Used for data loading, manipulation, and structured analysis of tabular datasets (such as reading True.csv and Fake.csv into DataFrames).
+
+scikit-learn: Contains the core machine learning algorithms (DecisionTreeClassifier, RandomForestClassifier), dataset splitting utilities (train_test_split), and text vectorization tools (TfidfVectorizer).
+
+matplotlib: Generates foundational static visual plots and customized charts to inspect data distributions and model results.
+
+seaborn: Built on top of Matplotlib to create statistical visualizations, such as confusion matrices and correlation heatmaps.
+
+jupyter: Provides the interactive notebook environment required to execute, edit, and display the main.ipynb file.
